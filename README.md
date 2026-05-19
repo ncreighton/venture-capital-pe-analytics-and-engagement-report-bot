@@ -1,0 +1,2 @@
+# venture-capital-pe-analytics-and-engagement-report-bot
+The Venture Capital &amp; PE Analytics and Engagement Report Bot is an intelligent automation tool designed for investment professionals, analysts, and fund managers who need real-time insights into venture capital and private equity markets. This bot aggregates data from multiple sources—including Crunchbase, PitchBook, SEC filings, and news outlets—t
